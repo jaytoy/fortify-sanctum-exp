@@ -9,3 +9,5 @@
 
 ## About
 This is an example of Laravel with Fortify and Sanctum
+
+Web Frontend using Blade, AlpineJS and TailwindCSS
