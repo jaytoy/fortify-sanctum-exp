@@ -8,6 +8,4 @@
 </p>
 
 ## About
-This is an example of Laravel with Fortify and Sanctum  
-
-Test
+This is an example of Laravel with Fortify and Sanctum
